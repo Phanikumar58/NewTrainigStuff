@@ -4,3 +4,9 @@ one more line added
 
 
 Checking to move the file from the staging stage to the local repository
+
+
+Lets try amend option now.
+
+Lets try onemore time
+
