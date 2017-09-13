@@ -1,5 +1,6 @@
 This is the sample page...new test added
 
 one more line added
-s
 
+
+Checking to move the file from the staging stage to the local repository
