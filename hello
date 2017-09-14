@@ -1,5 +1,6 @@
 hi
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 hello	
@@ -8,3 +9,6 @@ new
 =======
 version 2
 >>>>>>> parent of 2fa3d92... Hello
+=======
+
+>>>>>>> parent of 7576102... new commit
